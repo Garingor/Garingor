@@ -1,6 +1,13 @@
 ### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garingor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp;
+<p align="center">
+    
+    <a href="https://github.com/XynoxTheDev/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garingor&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+    <a href="https://github.com/XynoxTheDev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=XynoxTheDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+</p>
 <!--
 **Garingor/Garingor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
