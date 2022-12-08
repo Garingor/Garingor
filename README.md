@@ -1,13 +1,10 @@
-<h1>
 <p align="center">
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=garingor&style=flat-square&color=blue" alt=""/>
-</p>  
-</h1>
+</p>
   
 # 📈 GitHub Stats
 <p align="center">
